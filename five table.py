@@ -1,0 +1,20 @@
+a=1
+b=2
+c=3
+d=4
+e=5
+f=6
+g=7
+h=8
+i=9
+j=10
+print( 1x5= a*5)
+print(b*5)
+print(c*5)
+print(d*5)
+print(e*5)
+print(f*5)
+print(g*5)
+print(h*5)
+print(i*5)
+print(j*5)
