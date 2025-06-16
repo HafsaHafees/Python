@@ -1,0 +1,14 @@
+a=[4,"Hafsa",6,"HAHAHA"]
+print(a)
+print(type(a))
+print(a[3])
+print(a[1])
+print(a[2])
+print(a[0])
+a[3]="Hafees"
+print(a)
+list1=["Monday","Tuesday","Wednesday","Thursday","Friday"]
+print(list1)
+list2=["Saturday","Sunday"] 
+print(list2)
+print(list1+list2)
