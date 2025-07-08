@@ -1,4 +1,6 @@
-for y in range(1,51):
+x=int (input("Enter starting range:"))
+w=int (input("Enter ending range:"))
+for y in range(x,w+1):
     if y%3==0 and y%5==0:
         print("FizzBuzz")
     elif y%3==0:
